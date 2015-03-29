@@ -79,7 +79,6 @@ evento de pago).
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier 
 inquietud, por favor comunícate con un organizador del meetup lo antes posible. 
-(hola@bogotajs.com)[mailto:hola@bogotajs.com]
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
