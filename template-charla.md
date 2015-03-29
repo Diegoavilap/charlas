@@ -12,4 +12,7 @@ Describe de que se trata el tema que vas a exponer
 
 ## Necesario para el evento
 Cuentanos que necesitas para realizar este encuentro. (espacio fisico, equipos, proyector, etc...)
+
+## Acerca de ti (si es la primera vez como organizador)
+Hablanos acerca de ti y tu experiencia. Nos gustaría saber a que te dedicas y que expectativas tienes con el meetup de IbaguéJS
 ```
